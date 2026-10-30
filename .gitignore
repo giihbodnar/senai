@@ -1,0 +1,16 @@
+# Maven build output
+target/
+
+# Eclipse local project settings
+.classpath
+.project
+.settings/
+
+# Common IDE files
+.idea/
+*.iml
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
